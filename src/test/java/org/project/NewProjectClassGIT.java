@@ -34,6 +34,11 @@ public class NewProjectClassGIT {
 	 private void quitbrowser() {
 	driver.quit();
 	}
+	
+	@Test
+	private void tc5() {
+System.out.println("Hello");
+	}
 
 	@Test
 	private void tc2() {
