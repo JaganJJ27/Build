@@ -37,7 +37,9 @@ public class NewProjectClassGIT {
 	
 	@Test
 	private void tc5() {
-System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("Vanakam");
+
 	}
 
 	@Test
